@@ -1,0 +1,2 @@
+<ip address of your target machine>     ansible_user=<username of your target machine> 
+
